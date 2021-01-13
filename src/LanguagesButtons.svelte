@@ -3,13 +3,6 @@
     export let changeLang;
 </script>
 
-<a href="#" on:click="{changeLang('en')}" class="flag">
-    {#if language === 'en'}
-        <img src="images/usa-enabled.png" alt="" />
-    {:else}
-        <img src="images/usa-disabled.png" alt="" />
-    {/if}    
-</a>
 
 <a href="#" on:click="{changeLang('pt-BR')}" class="flag">
     {#if language === 'pt-BR'}
@@ -17,6 +10,14 @@
     {:else}
         <img src="images/brazil-disabled.png" alt="" />
     {/if}
+</a>
+
+<a href="#" on:click="{changeLang('en')}" class="flag">
+    {#if language === 'en'}
+        <img src="images/usa-enabled.png" alt="" />
+    {:else}
+        <img src="images/usa-disabled.png" alt="" />
+    {/if}    
 </a>
 
 <style>

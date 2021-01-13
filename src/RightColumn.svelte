@@ -3,7 +3,7 @@
   import LanguagesButtons from "./LanguagesButtons.svelte";
   import Text from "./Text.svelte";
 
-  let languageSelected = "en";
+  let languageSelected = "pt-BR";
 
   function changeLang(language) {
     languageSelected = language;

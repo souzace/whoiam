@@ -4,4 +4,6 @@
     <li><a href="https://www.linkedin.com/in/souzace" target="_blank" class="icon brands style2 fa-linkedin-in"><span class="label">LinkedIn</span></a>
     </li>
 </ul>
-<i>Made using <a href='https://svelte.dev/' target="_blank">SvelteJS</a></i>
+<div>
+    <i>Made using <a href='https://svelte.dev/' target="_blank">Svelte</a></i>
+</div>
