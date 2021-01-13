@@ -32,7 +32,7 @@
     {#if languageSelected === 'en'}
       <Text
         title="Web Developer"
-        mainText="I am a web developer at Grupo Imagem e Segurança, currently
+        mainText="I am a web developer, currently
         living in Fortaleza - CE, Brazil. Between 2010 and 2017, i worked with
         Java Script, PHP 5.x, MySQL, PostgresSQL, Firebird and anothers...
         after, came projects using PHP frameworks like CodeIgniter, Zend and
@@ -46,7 +46,7 @@
     {:else}
       <Text
         title="Desenvolvedor Web"
-        mainText="Sou desenvolvedor web do Grupo Imagem e Segurança, atualmente
+        mainText="Sou desenvolvedor web, atualmente
         morando em Fortaleza - CE, Brasil. Entre 2010 e 2017, trabalhei com Java
         Script, PHP 5.x, MySQL, PostgresSQL, Firebird e outros... depois,
         surgiram projetos usando Frameworks PHP como CodeIgniter, Zend e
